@@ -27,9 +27,10 @@ Siri Pro is an Apple Shortcut to inuitively query ChatGPT using Siri in combinat
 
 ## Notes
 
-- The shortcut contains a pre-devined prompt to let ChatGPT know how to respond to questions and limit the length of the response.
+- The shortcut contains a pre-devined German prompt to let ChatGPT know how to respond to questions and limit the length of the response.
 - The shortcut does not use any loop to create a continuous conversation because the current version of the ChatGPT app does not cache previous queries. 
 - The shortcut does not display any alert messages which could be persistant and could not be hidden automatically.
+- Note: the current version of ChatGPT app does not allow to initiate a voice conversation any more (possibly due to the new integration of ChatGPT into iOS 18 on iPhone 16 models).
 
 ## License
 
